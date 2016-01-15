@@ -1,0 +1,27 @@
+{
+  "name": "mongodb-query-tests",
+  "version": "0.1.0",
+  "description": "Some experiments with MongoDB.",
+  "main": "query.js",
+  "dependencies": {
+    "chance": "^0.8.0",
+    "mongoose": "^4.3.3",
+    "mongodb": "^2.1.2",
+    "nan": "^2.1.0",
+    "node-gyp": "^3.2.1",
+    "ws": "^0.8.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bwackwat/mongodb-query-tests.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bwackwat/mongodb-query-tests/issues"
+  }
+}
